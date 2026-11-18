@@ -6,20 +6,17 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/liulianyun) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-榴莲云（LiuLianYun）于 **2026 年 3 月**开业，面向日常办公、海外资讯访问、流媒体观看与 AI 工具使用提供订阅服务。年付特惠版为 **¥96/年、60GB/月**，折合 **¥8/月**；按月购买从 **¥24/月、140GB/月**起，最高档为 **750GB/月**。支持通用订阅，目前没有不限时流量包。
-
 > [!NOTE]
 > **30 秒看懂榴莲云(LiuLianYun)**
 >
-> - **月付起步**：轻享包 ¥24/月、140GB/月；另有 260GB、420GB 和 750GB/月档位。
-> - **最低年付**：榴莲包·年付特惠版 ¥96/年、60GB/月，折合 ¥8/月，需一次支付全年费用。
-> - **优惠码**：`ll88` 享 **7 折**，适用套餐及与周期优惠叠加情况以结算页为准。
-> - **订阅与设备**：支持通用订阅，套餐标注不限设备数量、不限速。
-> - **套餐类型**：周期订阅，没有不限时套餐。
-> - **支付方式**：支付宝、微信支付、USDT。
+> [访问官网](https://eoht.net/serve/airport/liulianyun) · [查看套餐与优惠码](https://eoht.net/serve/airport/liulianyun#liulianyun-vpn-plans) · [查看测速图](https://eoht.net/serve/airport/liulianyun#liulianyun-speed-test) · [查看解锁图](https://eoht.net/serve/airport/liulianyun#liulianyun-unlock-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> [查看套餐与优惠码](https://eoht.net/serve/airport/liulianyun#liulianyun-vpn-plans) · [查看测速图](https://eoht.net/serve/airport/liulianyun#liulianyun-speed-test) · [查看解锁图](https://eoht.net/serve/airport/liulianyun#liulianyun-unlock-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **入门方案**：轻享包 ¥24/月、140GB/月；年付特惠版 ¥96/年、60GB/月，需一次支付全年费用，流量为每月额度。
+> - **使用与套餐**：通用订阅可导入兼容客户端，套餐标注不限设备数量、不限速；目前只有周期订阅，**没有不限时流量包**，需在所购周期内使用。
+> - **优惠条件**：`ll88` 享 7 折，适用套餐及能否与周期优惠叠加，以结算页为准；下方表格保留使用优惠码前的标价。
 >
+
+榴莲云（LiuLianYun）于 **2026 年 3 月**开业，面向日常办公、海外资讯访问、流媒体观看与 AI 工具使用提供订阅服务。年付特惠版为 **¥96/年、60GB/月**，折合 **¥8/月**；按月购买从 **¥24/月、140GB/月**起，最高档为 **750GB/月**。支持通用订阅，目前没有不限时流量包。
 
 <a id="liulianyun-official-website"></a>
 
